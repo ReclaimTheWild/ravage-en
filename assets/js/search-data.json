@@ -1,0 +1,68 @@
+{"0": {
+    "doc": "Creature builder",
+    "title": "Creature builder",
+    "content": "Head: . Name*: Rank*: Stats: . HP*: MP*: SP*: Defense*: Def. Type*: Concentration*: Initiative*: Evasion*: Vitality*: Size*: Movement*: Main Attack(s): . + - . Abilities: . + - . Default Weapon: . + - . Passives &amp; Weak Points: . + - . Traits: . Intelligence &amp; Infos*: Resistance: Immunity: Vulnerability: Power Combat*: Hearts*: Athletics*: Civilization*: Fortitude*: Intimidate*: Mechanics*: Smithing*: Wisdom Willpower*: Magic*: Arcana*: Perception*: Influence*: Discipline*: Perform*: Enchanting*: Courage Accuracy*: Stamina*: Nature*: Agility*: Command*: Insight*: Guile*: Cooking*: Drops: . + - . Generate Table . Code: Copy . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/web_tools/creature_builder",
+    "relUrl": "/web_tools/creature_builder"
+  },"1": {
+    "doc": "Credits",
+    "title": "Credits",
+    "content": "Version 2.0 and beyond Developed by Mike (“Elemental Knight”) and Milly Originally Developed by Mike (“Elemental Knight”) with additional design by May . Art Sourcing assistance: Nintaku, Mr. Turnip . Please send comments, feedback, and concerns to ReclaimTheWildTabletop@GMail.com . Playtesters: Aaron, Alan, Avara Sheridan, Chelsea, Corin CWStra, frigidScholar, Iki, Josh, Kain, Kaorin Sakura, Kayla, Lyle, Manavine, Marhatus, Muzok, Phila, Rini, Tali, Vader, xFalsewingzx . Fonts used: Hylia Serif (headers) and Calamity Sans (body text). Mike would like to thank: Chelsea, for your unending support and patience; Kaorin Sakura, for showing this can be done; the Pokémon Tabletop community, for being my home for years and years – and the Returners’ Final Fantasy Tabletop community, for being my home before that. The Legend of Zelda and all associated properties are owned by Nintendo. This book is a freely-distributed system made by fans, for fans, of both tabletop games and of The Legend of Zelda. Please support Nintendo’s official releases! . Version 2.03; June 2021 . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/credits",
+    "relUrl": "/credits"
+  },"2": {
+    "doc": "Credits",
+    "title": "Website &amp; Discord",
+    "content": "For the latest on Reclaim the Wild, including ideas for your game and the latest version of these rules, visit ReclaimTheWild.net. You can also come say hello on our Discord server! . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/credits#website--discord",
+    "relUrl": "/credits#website--discord"
+  },"3": {
+    "doc": "Tags",
+    "title": "Tag cloud",
+    "content": "The tag cloud lists all used tags in alphabetical order. The size of the text is related to the number of times the tag is used; the exact number is shown on the tag pages, and in the list below. If you would like to suggest a new tag, feel free to open a new issue and ask about it ! . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/tag/#tag-cloud",
+    "relUrl": "/tag/#tag-cloud"
+  },"4": {
+    "doc": "Tags",
+    "title": "Tag index",
+    "content": "Used tags: 0 of 0 . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/tag/#tag-index",
+    "relUrl": "/tag/#tag-index"
+  },"5": {
+    "doc": "Tags",
+    "title": "Tags",
+    "content": " ",
+    "url": "https://reclaimthewild.github.io/ravage-en/tag/",
+    "relUrl": "/tag/"
+  },"6": {
+    "doc": "Contributors",
+    "title": "Contributor index",
+    "content": "Active users: 0 of 0 . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/contributor/#contributor-index",
+    "relUrl": "/contributor/#contributor-index"
+  },"7": {
+    "doc": "Contributors",
+    "title": "Contributors",
+    "content": " ",
+    "url": "https://reclaimthewild.github.io/ravage-en/contributor/",
+    "relUrl": "/contributor/"
+  },"8": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Welcome to the mirror of Ravage the Wild’s ruleset ! . Updated to: Ravage the Wild v2.03 . ",
+    "url": "https://reclaimthewild.github.io/ravage-en/",
+    "relUrl": "/"
+  },"9": {
+    "doc": "Web Tools",
+    "title": "Online Tools",
+    "content": "Online tools useful for Reclaim the Wild. ",
+    "url": "https://reclaimthewild.github.io/ravage-en/web_tools#online-tools",
+    "relUrl": "/web_tools#online-tools"
+  },"10": {
+    "doc": "Web Tools",
+    "title": "Web Tools",
+    "content": " ",
+    "url": "https://reclaimthewild.github.io/ravage-en/web_tools",
+    "relUrl": "/web_tools"
+  }
+}
