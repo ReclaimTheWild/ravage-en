@@ -9,7 +9,6 @@ nav_order: 14
 
 Chuchu are mobile blobs of goop with eyes. Found nearly everywhere, these slimes are valued for their jelly – a versatile Elixir crafting ingredient.
 
-
 <table class="creature-table">
   <thead>
     <tr>
@@ -196,15 +195,15 @@ Chuchu are mobile blobs of goop with eyes. Found nearly everywhere, these slimes
   </thead>
 </table>
 
-| Element | Color  | Terrain      | Status       | Vulnerability | Jelly Property |
-|---------|--------|--------------|--------------|---------------|----------------|
-| Dark    | Purple | Oiled        | Blind        | Light         | Dusky          |
-| Earth   | Green  | Sand, Quick  | Sand-Covered | Ice           | Coarse         |
-| Fire    | Red    | Brushfire    | On Fire      | Water         | Toasty         |
-| Ice     | Teal   | Ice, Dry     | Slowed       | Fire          | Fireproof      |
-| Light   | White  | Normal       | Cursed       | Dark          | Bright         |
-| Shock   | Yellow | Electrified  | Off-Balance  | Earth         | Electro        |
-| Water   | Navy   | Water, Fresh | Soaked       | Shock         | Spongy         |
+| Element | Color  | Terrain        | Status       | Vulnerability | Jelly Property |
+|---------|--------|----------------|--------------|---------------|----------------|
+| Dark    | Purple | Oiled          | Blind        | Light         | Dusky          |
+| Earth   | Green  | Sand, Quick    | Sand-Covered | Ice           | Coarse         |
+| Fire    | Red    | Brushfire      | On Fire      | Water         | Toasty         |
+| Ice     | Teal   | Ice, Dry       | Slowed       | Fire          | Fireproof      |
+| Light   | White  | Normal         | Cursed       | Dark          | Bright         |
+| Shock   | Yellow | Electrified    | Off-Balance  | Earth         | Electro        |
+| Water   | Navy   | Water, Fresh * | Soaked       | Shock         | Spongy         |
 {: .rtw-table .centered-bold .fixed-columns-100 }
 
 * This fresh water is 1 square deep – Medium creatures can either wade through it as Difficult Terrain, or swim in it. Fighting in it may cause Metal weapons to rust at the end of the fight, and will leave you Soaked when you emerge from it.
