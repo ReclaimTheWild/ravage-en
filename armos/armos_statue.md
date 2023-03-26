@@ -64,9 +64,17 @@ Armos Statues are invulnerable to all damage when inactive, and only activate wh
       </td>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: -</td>
     </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">(Free Action)</td>
+    </tr>
     <tr class="text-grey-dk-300 creature-content-bg-light">
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">4 Stamina</td>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: -</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
+        <strong>Use Requirement: </strong>Defensive Weapon
+      </td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">When you successfully Deflect an attack with your shield, you may activate this Technique to make a follow-up Basic Attack with your other equipped Weapon.</td>
