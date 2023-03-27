@@ -3,6 +3,7 @@ layout: default
 title: Blade Traps
 permalink: /blade_traps
 nav_order: 9
+has_children: true
 ---
 
 # Blade Traps

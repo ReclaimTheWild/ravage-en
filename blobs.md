@@ -3,6 +3,7 @@ layout: default
 title: Blobs
 permalink: /blobs
 nav_order: 10
+has_children: true
 ---
 
 # Blobs
