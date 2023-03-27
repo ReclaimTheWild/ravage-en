@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Guardians
-permalink: /guardians
+title: Goriya
+permalink: /goriya
 nav_order: 21
 ---
 
