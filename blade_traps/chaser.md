@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blade Trap
+title: Chaser
 permalink: /blade_traps/chaser
 parent: Blade Traps
 nav_order: 2
