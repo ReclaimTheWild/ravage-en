@@ -1,57 +1,57 @@
 ---
 layout: default
-title: Chaser
-permalink: /blade_traps/chaser
-parent: Blade Traps
-nav_order: 2
+title: Gibdo
+permalink: /revenants/gibdo
+parent: Revenants
+nav_order: 3
 ---
 
-# Chaser
+# Gibdo
 
-Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic Blade Trap, Chasers do not have to return to their origin point to attack again. They mindlessly follow a chosen foe, trying to catch them in their whirring blades.
+Mummies made in a long-forgotten age, Gibdo roam the haunted halls of crypts and graveyards. Their embalming preserves not only their great strength, but also a measure of their intelligence, making them more agile and dangerous than other Revenants.
 
 <table class="creature-table">
   <thead>
     <tr>
-      <th colspan="6" class="fs-6 text-grey-lt-000 creature-title-bg">Chaser</th>
+      <th colspan="6" class="fs-6 text-grey-lt-000 creature-title-bg">Gibdo</th>
     </tr>
     <tr>
-      <th colspan="6" class="fs-5 text-grey-lt-000 creature-title-bg">Rank 2 Mechanical Trap</th>
+      <th colspan="6" class="fs-5 text-grey-lt-000 creature-title-bg">Rank 3 Arcane Warrior</th>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
-        <strong>HP</strong>: 20
+        <strong>HP</strong>: 24
       </td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
-        <strong>MP</strong>: 0
+        <strong>MP</strong>: 20
       </td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
-        <strong>SP</strong>: 16
+        <strong>SP</strong>: 24
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Defense: 26 (Impervious)</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Concentration: 13</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Defense: 13 (Heavy)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Concentration: 18</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Initiative: +4</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Evasion: 7</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Initiative: +6</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Evasion: 12</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Size: Medium</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Vitality: 16</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Vitality: 18</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">Movement: 4 (Walking)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">Movement: 6 (Walking)</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">
         <strong>Strike</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Damage: 14</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Damage: 16</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">To-Hit Check: +8</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">To-Hit Check: +11</td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Range: Melee</td>
     </tr>
     <tr>
@@ -59,71 +59,79 @@ Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
-        <strong>Boot-Cut Buzzsaw</strong>
+        <strong>Bandage Binding</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: 14</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: 16</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-light">
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">8 Stamina</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Melee</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">4 Stamina</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Projectile 4</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">You cut through the foe in a straight line, ending on the other side of them. Make a Disarm attempt against the foe (Accuracy and Combat v. Vitality); on success, you knock their Leg armor off, depriving them of its use.</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Roll To-Hit Target’s Vitality; on success, target is Cursed.</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
+        <strong>Reapling's Sweep</strong>
+      </td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: 18</td>
+    </tr>
+    <tr class="text-grey-dk-300 creature-content-bg-light">
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">10 Magic</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Sweep 3</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">-</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">
-        <strong>Default Weapon: </strong>Chaser's Blade
+        <strong>Default Weapon: </strong>Gibdo's Grasp
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">(Rank 2 Metal Dagger)</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">(Rank 3 Natural Fist)</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Accuracy: 4</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Attack: 8</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Durability: 9</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Accuracy: 5</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Attack: 10</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Durability: 11</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Cardinal Charger</strong> (Passive)
+        <strong>Burnable Bandages</strong> (Passive)
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Aside from any listed attacks, this creature may only use the Charge Basic Attack. Further, it may only attack or move in cardinal directions (directly North, South, East, or West).</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">If this creature is On Fire from the end of one of its turn to the beginning of the next, it transforms into a ReDead and its fire is extinguished. All other damage and status effects remain.</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Night-Unstoppable</strong> (Passive)
-      </td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Limited Intelligence</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">This creature has +2 to resist being Grappled, Halted, Knocked Prone, Pushed, or Slowed.</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Menace, Push, Sick</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Instinctive Intelligence</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Blind, Distracted, Flirt</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Vulnerability: Light, Fire</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Combat</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Willpower</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Accuracy</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Accuracy</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Hearts</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Magic</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Stamina</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Athletics</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">8</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Arcana</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Nature</td>
@@ -135,11 +143,11 @@ Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Perception</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Agility</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Fortitude</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">8</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Influence</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Command</td>
@@ -147,15 +155,15 @@ Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Intimidate</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">8</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Discipline</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">8</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Insight</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Mechanics</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Perform</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Guile</td>
@@ -163,7 +171,7 @@ Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Smithing</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Enchanting</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Cooking</td>
@@ -173,10 +181,10 @@ Chasers are upgraded Blade Traps, equipped with a single eye. Unlike the classic
       <td class="text-grey-dk-300 creature-content-bg-light" rowspan="2">
         <strong>Drops:</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">Weapon (when available)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Gibdo Bandage (Rank 3 Cloth)</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">2x Soldier Steel (Rank 2 Metal)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">2x Gibdo Guts (Rank 3 Monster Part)</td>
     </tr>
   </thead>
 </table>
