@@ -3,6 +3,7 @@ layout: default
 title: Gohma
 permalink: /gohma
 nav_order: 20
+has_children: true
 ---
 
 # Gohma
